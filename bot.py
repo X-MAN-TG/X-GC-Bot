@@ -21,7 +21,7 @@ from aiogram.types import (
 # ══════════════════════════════════════════════
 #  CONFIG  — swap these before deploying
 # ══════════════════════════════════════════════
-BOT_TOKEN   = "YOUR_BOT_TOKEN_HERE"   # from @BotFather
+BOT_TOKEN   = "8641524225:AAGQaYk3YkYZVaNG9_3wCcgPTJqIaWZjNgE"   # from @BotFather
 OWNER_ID    = 6810553459
 TARGET_CHAT = -1003419901372
 
